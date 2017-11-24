@@ -1,0 +1,1 @@
+This playground file is written with Swift 3. In order to run this file, please open this file with xcode 8.3.3 and above or you can paste the code in this (https://swift.sandbox.bluemix.net) online editor.
